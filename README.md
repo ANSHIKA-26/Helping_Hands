@@ -10,7 +10,7 @@ At HelpingHands, a platform dedicated to helping individuals in need find employ
 ## 👩‍💻 Some Links !
 <br>
 
-[Live Website](https://helping-hands-deployement2.netlify.app) can be found here.
+[Live Website](https://job-five-kappa.vercel.app/) can be found here.
 
 <br>
 [Click here](https://share.synthesia.io/4de7b22e-cfab-4f2d-9131-1d030e9c10ef) to get a brief idea of what Helping Hands is .
